@@ -1,4 +1,6 @@
 # Blockchain
+## Paths
+### [Blockchain for Developers](https://cognitiveclass.ai/learn/blockchain-for-developers)
 
 ## https://www.codecademy.com/learn/introduction-to-blockchain
 
